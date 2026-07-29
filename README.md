@@ -17,7 +17,7 @@ In engineering, manual calculations are prone to error and difficult to scale. T
 
 ## 💻 Tech Stack
 - **Language:** Python 3.13.5
-- **Environment:** Parrot OS (Debian-based Security Distro)
+- **Environment:** Debian OS
 - **Version Control:** Git / GitHub
 - **License:** Apache 2.0
 
